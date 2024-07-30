@@ -1,11 +1,10 @@
-![todopic](https://github.com/user-attachments/assets/87f719a3-7442-4d74-91db-d916be64276e)
+
 # TODO LIST
 ## OVERVIEW
 
 A modern React application for managing todos. Add, edit,search and delete tasks with ease!The Todo List application is a simple yet effective project built with React.js, a popular JavaScript library for building user interfaces. This app is designed to help users manage their tasks efficiently through a clean and intuitive interface.
 ## Live Demo:
-
-
+"C:\Users\DEVIKA\OneDrive\Desktop\todopic.png"
 ## 🚀 Quick Start
 
 1. **Clone the Repository**
