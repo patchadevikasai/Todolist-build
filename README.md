@@ -6,6 +6,8 @@
 ## 🖥️Live Demo:
 ![todopic](https://github.com/user-attachments/assets/0b31d173-2760-42a3-b58a-159ac5f0b39a)
 ⭐⭐You can also check this in Web Server:https://todo-spark.netlify.app/
+## Additional:
+Local Storage is added.The data remains same until you have perform the delete operations.
 ## 🚀 Quick Start
 
 1. **Clone the Repository**
@@ -39,7 +41,7 @@
 - **Add Todos:** Easily add new tasks to your list.
 - **Update Todos:** Edit existing tasks.
 - **Delete Todos:** Remove tasks as needed.
-- ****Search Todos:** Search tasks as needed.
+- **Search Todos:** Search tasks as needed.
 - **Responsive Design:** Works well on both desktop and mobile devices.
 
 ## 🛠️ Technologies
