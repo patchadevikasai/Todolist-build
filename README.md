@@ -4,7 +4,8 @@
 
 A modern React application for managing todos. Add, edit,search and delete tasks with ease!The Todo List application is a simple yet effective project built with React.js, a popular JavaScript library for building user interfaces. This app is designed to help users manage their tasks efficiently through a clean and intuitive interface.
 ## Live Demo:
-"C:\Users\DEVIKA\OneDrive\Desktop\todopic.png"
+![todopic](https://github.com/user-attachments/assets/0b31d173-2760-42a3-b58a-159ac5f0b39a)
+
 ## 🚀 Quick Start
 
 1. **Clone the Repository**
